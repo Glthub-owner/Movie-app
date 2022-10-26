@@ -1,0 +1,7 @@
+@mixin flexCenter() {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+$mainColor: linear-gradient(to right, #0f0c29, #302b63, #24243e);
+$textColor: #e9e9ed;
